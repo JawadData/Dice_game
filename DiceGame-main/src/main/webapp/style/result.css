@@ -1,0 +1,19 @@
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+nav a {
+    color: #333;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: #0477a6;
+}
